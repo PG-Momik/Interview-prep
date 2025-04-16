@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b691ea22-3a1d-4642-b1f3-a2c6bf20b5ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Interview-prep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laravel-12-Implementation" beforeDir="false" afterPath="$PROJECT_DIR$/Laravel-12-Implementation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Node-Implementation-Human" beforeDir="false" afterPath="$PROJECT_DIR$/Node-Implementation-Human" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,7 +198,7 @@
       <workItem from="1744602336779" duration="1761000" />
       <workItem from="1744695274271" duration="753000" />
       <workItem from="1744696512700" duration="8026000" />
-      <workItem from="1744769077768" duration="43000" />
+      <workItem from="1744769077768" duration="266000" />
     </task>
     <servers />
   </component>
