@@ -1,6 +1,8 @@
 [submodule "Laravel-12-Implementation"]
 	path = Laravel-12-Implementation
 	url = git@github.com:PG-Momik/Laravel-12-Implementation.git
+	branch=main
 [submodule "Node-Implementation-Human"]
 	path = Node-Implementation-Human
 	url = git@github.com:PG-Momik/Node-Implementation-Human.git
+	branch=main
